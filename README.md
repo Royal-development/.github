@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://cdn.discordapp.com/banners/442355791412854784/e4c3381efba7362b4d8e8b7e918dd8dc.png?size=4096" style"width: 100%;border-radius:15px">
+  <img src="https://https://media.discordapp.net/attachments/867300393755082792/909055494847627264/Screenshot_272.png?size=4096" style"width: 100%;border-radius:15px">
 </div>
 
 ## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
