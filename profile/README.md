@@ -6,7 +6,7 @@
   
 ***
 
-- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.milrato.dev)
+- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 387 Features!**](https://dsc.gg/official-royal)
   
 
 - 🌱 I’m currently coding in **Javascript** and C#.  
