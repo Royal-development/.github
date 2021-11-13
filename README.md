@@ -18,7 +18,7 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/kvxdnC8Ts6 | [Website](https://milrato.dev)
+## [Discord Server 😎](https://discord.gg/kvxdnC8Ts6) | [Website](https://milrato.dev)
 <a href="https://discord.gg/kvxdnC8Ts6"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
 
 ***
